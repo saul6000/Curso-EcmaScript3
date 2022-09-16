@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript2016",
+  "version": "1.0.0",
+  "description": "``` 'let y const, la nueva forma para declarar variables",
+  "main": "Practica1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "export": "^0.1.337",
+    "import": "^0.0.6"
+  }
+}
